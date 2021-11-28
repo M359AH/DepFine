@@ -21,10 +21,7 @@ python3 DepFine.py RawForPackage.com
 
 
 # Example usage:
-
-
-
-https://user-images.githubusercontent.com/57077443/143725702-ce0bd382-4f08-491b-ba67-a27713a8eef9.mp4
+![POC](https://user-images.githubusercontent.com/55370554/143777416-4e57f40d-4284-4285-a716-fb83c4e07b96.gif)
 
 # Warning:
 * to use the tool the package.json file must be in a raw data for example If you found it on a outdated domain you should move it to a raw becuase If you run the proccess using the normal link or json type the tool will be coruupted and not run
@@ -37,5 +34,3 @@ https://user-images.githubusercontent.com/57077443/143725702-ce0bd382-4f08-491b-
 ## Ahmed ibrahim
 
 * If you have any recommendation && questions [Twitter](https://twitter.com/mrmax404), [Facebook](https://www.facebook.com/mrmax404/), [LinkedIn](https://www.linkedin.com/in/ahmed-ibrahim-a9a1571b4/)
-
-
