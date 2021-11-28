@@ -22,7 +22,8 @@ python3 DepFind.py RawForPackage.com
 
 https://user-images.githubusercontent.com/57077443/143725702-ce0bd382-4f08-491b-ba67-a27713a8eef9.mp4
 
-# Warning to use the tool the package.json file must be in a raw data for example If you found it on a outdated domain you should move it to a raw becuase If you run the proccess using the normal link or json type the tool will be coruupted and not run
+# Warning:
+* to use the tool the package.json file must be in a raw data for example If you found it on a outdated domain you should move it to a raw becuase If you run the proccess using the normal link or json type the tool will be coruupted and not run
 
 * Thanks
 
