@@ -3,7 +3,7 @@ DepFine Is a tool to find the unregistered dependency based on dependency confus
 
 # Installation:
 
-* YOU Can install the tool using the following command by pip3 -r requirmentes.txt install and the tool requirmentes will be installed inside your machine
+* You Can install the tool using the following command by pip3 -r requirmentes.txt install and the tool requirmentes will be installed inside your machine
 
 # Idea:
 
