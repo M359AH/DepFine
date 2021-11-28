@@ -10,7 +10,7 @@ DepFine Is a tool to find the unregistered dependency based on dependency confus
 * You can use the tool using the following command by type:
 
 ```
-python3 DepFind.py RawForPackage.com
+python3 DepFine.py RawForPackage.com
 ```
 
 ![Screenshot_2021-11-28_03-46-01](https://user-images.githubusercontent.com/57077443/143725785-11bc3a51-5b5f-4afb-8168-1ba7ebe66486.png)
