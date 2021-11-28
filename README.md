@@ -5,6 +5,10 @@ DepFine Is a tool to find the unregistered dependency based on dependency confus
 
 * YOU Can install the tool using the following command by pip3 -r requirmentes.txt install and the tool requirmentes will be installed inside your machine
 
+# Idea:
+
+* The tool until now is running for node.js dependencies only but in next realase will be allow for the other frameworks like gemfile, pypi
+
 # Usage :
 
 * You can use the tool using the following command by type:
